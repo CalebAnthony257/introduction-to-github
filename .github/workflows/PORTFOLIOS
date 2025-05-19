@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="portfolioCSS.css">
+    <title>PORFOLIOS</title>
+</head>
+<body>
+<center>
+    <div class="container">
+        <div class="cercle"><img src="images/photo1.png"></div>
+        <div class="presentation">
+            <h2>MENGANG Caleb Anthony</h2>
+            <span class="barre1"></span>
+            <span class="barre2"></span>   
+        </div>
+        <div class="a_propos">
+            <h3>A PROPOS DE MOI</h3>
+            <l>Etudiant en génie logiciel
+                à l'institut supérieur des
+                technologie et de commerce,
+                je suis specialisé en Developpement
+                d'application web. Mais je suis aussi
+                expert en bien d'autre domaine.</l>
+                <span></span>
+                <div class="contact">
+                    <a href="tel:+237620720268"><img src="images/Tel.png" alt=""></a>
+                    <a href="mailto:anthony2007caleb@gmail.com"><img src="images/mail.png" alt=""></a>
+                    <a href="https://t.me/7433360774" target="_blank"><img src="images/telegram.png"></a>
+                    <a href="https://wa.me/237620720268" target="_blank" rel="noopener noreferrer"><img src="images/whatsapp.png"></a>
+                </div>
+        </div>
+        <div class="menu">
+            <span class="mot1" onload=""><b>Bienvenue</b></span>
+            <span class="mot2"><b>dans</b></span>
+            <span class="mot3"><b>mon</b></span>
+            <span class="mot4"><b>portfolio</b></span>
+            <a href="CV.html">Curriculum Vitae</a>
+            <a href="Projet.html">Projets</a>
+
+        </div>
+    </div>
+</center>
+</body>
+</html>
